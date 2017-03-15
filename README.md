@@ -1,5 +1,5 @@
 # reflex-pickup-trainer
-reflex-pickup-trainer is a simple command line program that helps train your pickup timing skills in Reflex Arena. The program first "spawns" a random pickup item at a random game time. The user then has to perform simple arithmetic and enter the correct time at which the item spawns again.
+reflex-pickup-trainer is a simple command line program that helps train your pickup timing skills in Reflex Arena. First, a random item is picked up (or expires) at a random game time. The user then has to perform simple arithmetic and enter the correct time at which the item spawns again.
 
 In addition, you can manually configure the item list to support other arena FPS such as Quake Live.
 
