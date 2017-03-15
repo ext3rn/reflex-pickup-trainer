@@ -23,7 +23,7 @@ To answer, enter a number in the format `XX`, where XX is the time (in seconds) 
 
 For example, if the Red Armor spawns at 55, the correct answer would be `20`.
 
-To quit, enter `q`. Optionally, you can also enter the EOF character (Ctrl-D on Linux).
+To quit, enter `q`. Alternatively, you can also enter the EOF character (Ctrl-D on Linux).
 
 ## Configuration
 Item list is stored in the file `config`, located in the same directory as the executable.
